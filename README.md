@@ -12,8 +12,12 @@ Another step is to have a look at Maven Analytics for some data and start messin
 
 ## Power Automate
 
-Yes, that is another tool that I'd love to try out. Actually, I've just built my first automation. It sends me an email, when a report is generated at a Sharepoint folder.
+Power Automate is an awesome tool I have to say, as it is pretty intuitive. I've contributed in a flow that automates Report creation for the People & Culture Barometer. However, because I cannot really view it here, I can show my first flow that I've done a couple of months ago.
 
 <img width="295" height="266" alt="image" src="https://github.com/user-attachments/assets/a62ad1b4-dec2-4917-84e7-c9412847c2e8" />
 
 Pretty easy to do, but it can save a lot of time checking for new generated reports.
+
+## Azure
+
+And now the Big Guy. Azure is a huge software to learn. I did not take any course I just went straight into it when I was creating a Function App for my company. It was again a part of the report automation so unfortunately, I'll need to keep the code for myself. However, what I can say is that it was a nice experience for me to learn in this environment and it also shifted my knowledge on another level.
