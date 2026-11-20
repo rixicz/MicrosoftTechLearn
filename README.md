@@ -16,7 +16,7 @@ Power Automate is an awesome tool I have to say, as it is pretty intuitive. I've
 
 <img width="295" height="266" alt="image" src="https://github.com/user-attachments/assets/a62ad1b4-dec2-4917-84e7-c9412847c2e8" />
 
-Pretty easy to do, but it can save a lot of time checking for new generated reports.
+Pretty easy to do, but it saved me a lot of time checking for new generated reports.
 
 ## Azure
 
