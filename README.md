@@ -22,7 +22,7 @@ Pretty easy to do, but it saved me a lot of time checking for new generated repo
 
 And now the Big Guy. Azure is a huge software to learn. I did not take any course I just went straight into it when I was creating a Function App for my company. It was again a part of the report automation so unfortunately, I'll need to keep the code for myself. 
 
-However, [pid_train_delay](https://github.com/rixicz/pid_train_delay_public) or [gyri_meal)](https://github.com/rixicz/gyri_meal) are personal projects indeed and therefore are available in this repository. 
+However, [pid_train_delay](https://github.com/rixicz/pid_train_delay_public) or [gyri_meal](https://github.com/rixicz/gyri_meal) are personal projects indeed and therefore are available in this repository. 
 
 ## AI Element
 
